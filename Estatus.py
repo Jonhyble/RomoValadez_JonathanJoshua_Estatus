@@ -2,7 +2,6 @@ import socket
 import sys
 import os
 from os import system
-import subprocess
 import time
 
 os.chdir('F:/Universidad/6to semestre/Tolerante a fallas/Codigos/RomoValadez_JonathanJoshua_RestaurarEjecucion')
